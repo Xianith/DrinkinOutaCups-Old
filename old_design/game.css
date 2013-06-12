@@ -1,0 +1,34 @@
+#game {
+width: 675px;
+height: 180px;
+font-size: 24px;
+padding: 2px 2px 2px 2px;
+margin: auto;
+border: white 2px solid;
+text-align: left;
+color: white;
+position: relative;
+top: 15px;
+margin-bottom: 8px;
+}
+
+#game h1 {
+font-size: 35px;
+display: inline;
+}
+
+#game img{
+height: 175px;
+width: 125px;
+float: left;
+margin-right:4px;
+border: 2px white solid;
+}
+
+#game b{
+color: #CC4646;
+}
+
+#game p{
+display: inline;
+}

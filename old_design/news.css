@@ -1,0 +1,26 @@
+#news {
+width: 675px;
+height: auto;
+font-size: 24px;
+padding: 3px 3px 3px 3px;
+margin: auto;
+border: white 2px solid;
+text-align: left;
+color: white;
+position: relative;
+top: 15px;
+margin-bottom: 8px;
+}
+
+#news h1 {
+font-size: 35px;
+display: inline;
+}
+
+#news b{
+color: #CC4646;
+}
+
+#news p{
+display: inline;
+}
