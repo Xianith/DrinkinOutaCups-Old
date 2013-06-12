@@ -1,0 +1,32 @@
+#news {
+width: 675px;
+height: auto;
+font-size: 15px;
+padding: 3px 3px 3px 3px;
+margin: auto;
+background-color: #bab190;
+border-radius: 5px 5px;
+text-align: left;
+color: black;
+position: relative;
+top: 15px;
+margin-bottom: 8px;
+}
+
+#news h1 {
+font-size:20px;
+display: inline;
+}
+
+#news b{
+color: #f4e8d8;
+}
+
+#news i{
+position: absolute;
+right: 5px;
+}
+
+#news a:hover{
+color: #f4e8d8;
+}

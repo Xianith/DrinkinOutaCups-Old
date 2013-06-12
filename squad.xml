@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="DOC">
+	<name>Drinkin Outa Cups</name>
+	<email>admin@drinkinoutacups.com</email>
+	<web>drinkinoutacups.com</web>
+	<picture>doc.paa</picture>
+	<title>Drinkin Outa Cups</title>
+	
+	<member id="25715270" nick="Xianith">
+		<name>Xianith</name>
+		<email>xianith@drinkinoutacups.com</email>
+		<icq>the worst pilot ever!</icq>
+		<remark>Officer</remark>
+	</member>
+	
+	<member id="25659078" nick="Yuri Lowell">
+		<name>Yuri Lowell</name>
+		<email>yurilowell@drinkinoutacups.com</email>
+		<icq>a cold stone killer!</icq>
+		<remark>Officer</remark>
+	</member>
+	
+	<member id="35067974" nick="Tekz">
+		<name>Tekz</name>
+		<email>tekz@drinkinoutacups.com</email>
+		<icq>an awesome pilot!</icq>
+		<remark>Officer</remark>
+	</member>
+	
+	&gt;<member id="81864518" nick="Ekarus"><name>Ekarus</name><email>ekarus@drinkinoutacups.com</email><icq>a AS50 Nut</icq><remark>Officer</remark></member>
+	
+	
+	
+	<member id="94865094" nick="Medical">
+		<name>Medical</name>
+		<email>medical@drinkinoutacups.com</email>
+		<icq>N/A</icq>
+		<remark>Member</remark>
+	</member>
+	
+	<member id="105486214" nick="Collin">
+		<name>Collin</name>
+		<email>collin@drinkinoutacups.com</email>
+		<icq>N/A</icq>
+		<remark>Member</remark>
+	</member>
+	
+<member id="36554566" nick="Bloxors"><name>Bloxors</name><email>bloxors@drinkinoutacups.com</email><icq>N/A</icq><remark>Member</remark></member><member id="94440006" nick="Bill"><name>Bill</name><email>bill@drinkinoutacups.com</email><icq>the medic!</icq><remark>Member</remark></member><member id="102734534" nick="AttrumTheSecond"><name> AttrumTheSecond</name><email> AttrumTheSecond@drinkinoutacups.com</email><icq>He's a bandit wearing Hero skin</icq><remark>Member</remark></member><member id="63909382" nick="deathsprint"><name>deathsprint</name><email>deathsprint@drinkinoutacups.com</email><icq>This guy is insane</icq><remark>Member</remark></member><member id="44818822" nick="Glimm"><name>Glimm</name><email>Glimm@drinkinoutacups.co</email><icq>n/a</icq><remark>Member</remark></member><member id="121479750" nick="iToxic"><name>iToxic</name><email>iToxic@drinkinoutacups.com</email><icq>n/a</icq><remark>Member</remark></member><member id="86572166" nick="Fred"><name>Fred</name><email>fred@drinkinoutacups.com</email><icq>N/A</icq><remark>Member</remark></member><member id="88452678" nick="Tosswinkle"><name>Tosswinkle</name><email>tosswinkle@drinkinoutacups.com</email><icq>The Crazy Aussie</icq><remark>Member</remark></member><member id="47749318" nick="dopey"><name>dopey</name><email>dopey@drinkinoutacups.com</email><icq>N/A</icq><remark>Member</remark></member><member id="120757766" nick="Cody"><name>Cody</name><email>cody@drinkinoutacups.com</email><icq>N/A</icq><remark>Member</remark></member><member id="82435590" nick="Steve Eidolon"><name>Steve Eidolon</name><email>steve.eldolon@drinkinoutacups.com</email><icq>N/A</icq><remark>Member</remark></member><member id="73536646" nick="Head of the INS"><name>Head of the INS</name><email>mikerossi1982@drinkinoutacups.com</email><icq>N/A</icq><remark>Officer</remark></member><member id="115555014" nick="MONRO3[ts]"><name>MONRO3[ts]</name><email>MONRO3[ts]@drinkinoutacups.com</email><icq></icq><remark>Member</remark></member></squad>

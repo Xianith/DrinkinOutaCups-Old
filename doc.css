@@ -1,0 +1,74 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+}
+#bg {
+    background-image: url("wp.jpg");
+    height: 1080px;
+    overflow: hidden;
+    position: fixed;
+    width: 1920px;
+}
+a, a:focus {
+    border-style: none;
+    color: black;
+    outline: medium none;
+    text-decoration: none;
+}
+a:hover {
+    color: #C6A673;
+}
+#main {
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    height: auto;
+    margin: auto auto 150px;
+    padding-bottom: 15px;
+    position: relative;
+    text-align: left;
+    top: 75px;
+    width: 700px;
+}
+.hr {
+}
+#menu {
+    font-size: 18px;
+    height: 20px;
+    margin: auto;
+    padding: 0 2px;
+    position: relative;
+    text-align: center;
+    top: 7px;
+    width: 675px;
+}
+#menu b {
+    color: black;
+    font-weight: normal;
+}
+#title {
+    font-size: 40px;
+    height: 50px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 15px;
+    width: 700px;
+}
+#side {
+    background-color: #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+    height: auto;
+    margin-left: -260px;
+    padding: 5px;
+    position: absolute;
+    text-align: left;
+    width: 245px;
+}
+#menu a.active {
+    color: #C6A673;
+}
